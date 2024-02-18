@@ -1,0 +1,46 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+.iphone{
+    background-color: lightgrey;
+  width: 300px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+.ps5{
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+ 
+}
+.spider-man2{
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+.motercycle{
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+.air{
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+.but1{
+  background-color:rgb(221, 123, 140);
+  color:white;
+  height: 60px;
+  width: 70px;
+}

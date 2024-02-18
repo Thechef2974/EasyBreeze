@@ -1,0 +1,20 @@
+img{
+    height:700px;
+    width: 800px;
+}
+h1{
+    color:yellow;
+}
+body{
+    background-color: black;
+}
+h3{
+    color:red;
+}
+discount{
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid rgb(222, 45, 17);
+    padding: 50px;
+    margin: 20px; 
+}
